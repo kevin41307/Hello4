@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80f92582e174d4709b1620a0c403814b, type: 3}
+  m_Name: Guard
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 96ebb8709d5f73345a340967134fde5c, type: 3}
+  - {fileID: 8300000, guid: 722087144b739b9469ef78907452540e, type: 3}
+  - {fileID: 8300000, guid: 5620adb156f02ca468d3b5afbcff26d9, type: 3}
+  - {fileID: 8300000, guid: 55bf631310e6ee94f8939a7144881c9d, type: 3}
+  volume:
+    minValue: 0.7464634
+    maxValue: 1
+  pitch:
+    minValue: 0.79762584
+    maxValue: 1.0747647

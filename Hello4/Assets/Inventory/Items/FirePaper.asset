@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6824404e7ea816b45887b478f6608e73, type: 3}
+  m_Name: FirePaper
+  m_EditorClassIdentifier: 
+  itemName: FirePaper
+  itemImage: {fileID: -8553582175004071258, guid: 4e9ff197cc7e40849949a2332b67156e,
+    type: 3}
+  itemHeld: 8
+  itemInfo: 'Increase flame damage '
+  equipable: 0
+  addInQuickItemList: 1

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aa125a307a3d384aac85a123b242edd, type: 3}
+  m_Name: EnemyAudioCollection
+  m_EditorClassIdentifier: 
+  footsteps: []
+  swordSwing:
+  - {fileID: 8300000, guid: 6658fe4e281aae345b412a549a91479a, type: 3}
+  - {fileID: 8300000, guid: ccbaea722c9a3c544a476409dc067940, type: 3}
+  - {fileID: 8300000, guid: b80a31bf9e40af645aff64499e365b15, type: 3}
+  - {fileID: 8300000, guid: 466723081d77d424ea5cefaf98cb11c1, type: 3}
+  swordHit: []
+  rolling: []
+  gunShoot: []
+  bloodExplosion_More: []
+  bloodExplosion_Less: []
+  postEffect: {fileID: 0}
+  void_low1: {fileID: 0}
+  void_high1: {fileID: 0}
+  bassDrop1_1: {fileID: 0}
+  bassDrop1_2: {fileID: 0}
+  m_GuardAudioEvent1: {fileID: 0}

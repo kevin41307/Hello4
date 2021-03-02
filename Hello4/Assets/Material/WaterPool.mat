@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WaterPool
+  m_Shader: {fileID: -6465566751694194690, guid: 9d35ba6364426c248b766a218c493326,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_5304E6CF:
+        m_Texture: {fileID: 2800000, guid: 8965a79ad91db6c4f8178176c43efdc8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_19170485: 2
+    - Vector1_497781AA: 0.76
+    - Vector1_92E3E031: 0.6
+    - Vector1_D5BF2651: 0.3
+    m_Colors:
+    - Color_CCC3CDF9: {r: 0.28838864, g: 0.93726313, b: 1.286657, a: 1}
+    - Color_FC30FEB4: {r: 0.20478818, g: 0.34244528, b: 0.735849, a: 1}

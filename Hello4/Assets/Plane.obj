@@ -1,0 +1,23 @@
+# ProBuilder 4.2.3
+# https://unity3d.com/unity/features/worldbuilding/probuilder
+# 2021/2/8 上午 01:51:31
+
+mtllib ./Plane.mtl
+o Plane
+
+g Plane
+v -29.95 4.401 -18.2
+v -30.25 4.401 -18.2
+v -29.95 5.351 -18.2
+v -30.25 5.351 -18.2
+
+vt 0.9629459 1.985805E-07
+vt 0.01223817 1.192093E-07
+vt 0.9810405 0.9840505
+vt 0.01223813 0.9840505
+
+vn 0 0 1
+
+usemtl Blood_direction
+f 3/3/1 4/4/1 2/2/1 1/1/1
+
